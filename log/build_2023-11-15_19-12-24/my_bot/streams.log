@@ -1,0 +1,51 @@
+[0.065s] Invoking command in '/home/vallari/Development/task3_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake /home/vallari/Development/task3_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vallari/Development/task3_ws/install/my_bot
+[0.223s] -- The C compiler identification is GNU 11.4.0
+[0.333s] -- The CXX compiler identification is GNU 11.4.0
+[0.354s] -- Detecting C compiler ABI info
+[0.427s] -- Detecting C compiler ABI info - done
+[0.435s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.435s] -- Detecting C compile features
+[0.436s] -- Detecting C compile features - done
+[0.449s] -- Detecting CXX compiler ABI info
+[0.521s] -- Detecting CXX compiler ABI info - done
+[0.529s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.529s] -- Detecting CXX compile features
+[0.530s] -- Detecting CXX compile features - done
+[0.547s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.934s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.999s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.048s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.141s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.147s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.148s] -- Added test 'lint_cmake' to check CMake code style
+[1.149s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.153s] -- Added test 'xmllint' to check XML markup files
+[1.155s] -- Configuring done (1.0s)
+[1.158s] -- Generating done (0.0s)
+[1.159s] -- Build files have been written to: /home/vallari/Development/task3_ws/build/my_bot
+[1.168s] Invoked command in '/home/vallari/Development/task3_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake /home/vallari/Development/task3_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/vallari/Development/task3_ws/install/my_bot
+[1.170s] Invoking command in '/home/vallari/Development/task3_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --build /home/vallari/Development/task3_ws/build/my_bot -- -j16 -l16
+[1.209s] Invoked command in '/home/vallari/Development/task3_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --build /home/vallari/Development/task3_ws/build/my_bot -- -j16 -l16
+[1.275s] Invoking command in '/home/vallari/Development/task3_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --install /home/vallari/Development/task3_ws/build/my_bot
+[1.295s] -- Install configuration: ""
+[1.295s] -- Execute custom install script
+[1.295s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/config/empty.yaml
+[1.299s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[1.302s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/launch/rsp.launch.py
+[1.306s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/worlds/empty.world
+[1.310s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[1.312s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[1.315s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[1.318s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[1.322s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/path.sh
+[1.326s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/path.dsv
+[1.329s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.bash
+[1.331s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.sh
+[1.334s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.zsh
+[1.338s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.dsv
+[1.341s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/package.dsv
+[1.344s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[1.347s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[1.351s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[1.354s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/package.xml
+[1.364s] Invoked command in '/home/vallari/Development/task3_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --install /home/vallari/Development/task3_ws/build/my_bot
