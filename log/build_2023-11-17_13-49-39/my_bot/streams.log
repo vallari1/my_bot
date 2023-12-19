@@ -1,0 +1,28 @@
+[0.063s] Invoking command in '/home/vallari/Development/task3_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --build /home/vallari/Development/task3_ws/build/my_bot -- -j16 -l16
+[0.106s] Invoked command in '/home/vallari/Development/task3_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --build /home/vallari/Development/task3_ws/build/my_bot -- -j16 -l16
+[0.173s] Invoking command in '/home/vallari/Development/task3_ws/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --install /home/vallari/Development/task3_ws/build/my_bot
+[0.193s] -- Install configuration: ""
+[0.193s] -- Execute custom install script
+[0.194s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/config/empty.yaml
+[0.194s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/config/view_bot.rivz.rviz
+[0.197s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/description/inertial_macros.xacro
+[0.200s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.200s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.201s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/launch/rsp.launch.py
+[0.201s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/worlds/empty.world
+[0.201s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.201s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.201s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.201s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.202s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/path.sh
+[0.202s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/environment/path.dsv
+[0.202s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.bash
+[0.202s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.sh
+[0.202s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.zsh
+[0.202s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/local_setup.dsv
+[0.202s] -- Symlinking: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/package.dsv
+[0.206s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.206s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.206s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.207s] -- Up-to-date symlink: /home/vallari/Development/task3_ws/install/my_bot/share/my_bot/package.xml
+[0.213s] Invoked command in '/home/vallari/Development/task3_ws/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/vallari/.local/bin/cmake --install /home/vallari/Development/task3_ws/build/my_bot
